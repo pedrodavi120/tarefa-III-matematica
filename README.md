@@ -54,7 +54,7 @@ Para calcular a distância percorrida por um objeto com velocidade variável $v(
 ### Passo a Passo
 1.  Clone este repositório:
     ```bash
-    git clone [https://github.com/seu-usuario/tarefa-integral-simpson.git](https://github.com/seu-usuario/tarefa-integral-simpson.git)
+    git clone [https://github.com/seu-usuario/tarefa-III-matematica](https://github.com/seu-usuario/tarefa-III-matematica)
     2.  Execute o script:
     ```bash
     python integracao_simpson.py
